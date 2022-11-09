@@ -1,7 +1,5 @@
 # web-scraping
 
-# Create a new github repo called 'web-scraping' done 
-
 # Using BS4, find at least 2 websites that you want to scrap data from - provide that code within a .py file  
 
 # In the code, for each website - create at least one dataframe that has structured data 
